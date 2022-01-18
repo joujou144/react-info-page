@@ -1,3 +1,15 @@
+# React-info- page
+
+This is a super simple static page created with React using create-react-app setup to learn the basic fundamentals of React library
+
+https://joujou144.github.io/react-info-page/
+
+## Acknowledgements
+
+This project is a part of FrontEnd Developer Career Path course by Scrimba from Module 11 React Basic. View course [here](https://scrimba.com/learn/frontend)
+
+The tutorial was led by [Bob Zirroll](https://www.linkedin.com/in/bobziroll/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
